@@ -1,0 +1,1 @@
+window.blankapp = window.blankapp || {};

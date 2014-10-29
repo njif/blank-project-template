@@ -1,0 +1,28 @@
+{
+	"items": [
+		{
+			"alias": "item_1",
+			"name": "Item name 1"
+		},
+		{
+			"alias": "item_2",
+			"name": "Item name 2"
+		},
+		{
+			"alias": "item_3",
+			"name": "Item name 3"
+		},
+		{
+			"alias": "item_4",
+			"name": "Item name 4"
+		},
+		{
+			"alias": "item_5",
+			"name": "Item name 5"
+		},
+		{
+			"alias": "item_6",
+			"name": "Item name 6"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "blank-project-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/njif/blank-project-template",
+  "authors": [
+    "Anton Seroshtan <anton.seroshtan@gmail.com>"
+  ],
+  "description": "blank project",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1"
+  },
+  "devDependencies": {
+    "handlebars": "~2.0.0",
+    "underscore": "~1.7.0"
+  }
+}
